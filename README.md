@@ -14,7 +14,7 @@ We only privide the video partition files and sentence annotation files here. Th
 Each annotation is organized by
 
     {
-    "vid": "5159741010",
+    "vid": "5159741010",                            # Video ID
     "frame_count": 219,                             # Number of frames
     "fps": 29.97002997002997, 
     "width": 1920, 
