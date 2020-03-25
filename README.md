@@ -1,6 +1,7 @@
 # VidSTG-Dataset
 This repository provides the dataset introduced by the paper "Where Does It Exist: Spatio-Temporal Video Grounding for Multi-Form Sentences".
 
+![avatar](https://github.com/Guaranteer/VidSTG-Dataset/blob/master/example.jpg)
 
 ### Introduction
 The VidSTG dataset is constructed based on video relation dataset [VidOR](https://xdshang.github.io/docs/vidor.html). VidOR contains 7,000, 835 and 2,165 videos for training, validation and testing, respectively. Since box annotations of testing videos are unavailable yet, we omit testing videos, split 10\% training videos as our validation data and regard original validation videos as the testing data. The concrete annotation process can be found in our paper "Where Does It Exist: Spatio-Temporal Video Grounding for Multi-Form Sentences".
