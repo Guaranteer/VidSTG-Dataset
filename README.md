@@ -67,7 +67,7 @@ Each annotation is organized by
 
 ### Citing Our Paper
 
-If you find this dataset useful in your research, please consider citing:
+If you find this dataset useful in your research, please consider citing our paper and the original paper about the VidOR dataset:
 
     @inproceedings{zhang2020does,
         title={Where Does It Exist: Spatio-Temporal Video Grounding for Multi-Form Sentences},
@@ -76,4 +76,17 @@ If you find this dataset useful in your research, please consider citing:
         year={2020}
     }
 
+    @inproceedings{shang2019annotating,
+        title={Annotating Objects and Relations in User-Generated Videos},
+        author={Shang, Xindi and Di, Donglin and Xiao, Junbin and Cao, Yu and Yang, Xun and Chua, Tat-Seng},
+        booktitle={Proceedings of the 2019 on International Conference on Multimedia Retrieval},
+        pages={279--287},
+        year={2019},
+        organization={ACM}
+    }
+
+
+
+
+A
 
